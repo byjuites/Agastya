@@ -1,1 +1,1 @@
-1.3 , http://172.16.8.62/blms/windows/agent_update.zip , disable
+1.4 , http://172.16.8.62/blms/windows/agent_update.zip , enable
